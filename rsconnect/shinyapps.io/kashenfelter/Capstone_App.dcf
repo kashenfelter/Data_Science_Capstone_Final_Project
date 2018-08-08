@@ -1,0 +1,13 @@
+name: Capstone_App
+title: Capstone_App
+username:
+account: kashenfelter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 396923
+bundleId: 1524078
+url: https://kashenfelter.shinyapps.io/Capstone_App/
+when: 1533699870.45996
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: default_app.R
